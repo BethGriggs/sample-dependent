@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/BethGriggs/sample-dependent#readme",
   "dependencies": {
-    "sample-parent": "git+https://github.com/BethGriggs/sample-parent.git"
+    "sample-parent": "BethGriggs/sample-parent#724fb538ae2474775920a2a896677de11d108ac3"
   }
 }
